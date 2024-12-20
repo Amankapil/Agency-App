@@ -1,4 +1,10 @@
 {
   "name": "TestApp",
-  "displayName": "TestApp"
+  "displayName": "TestApp",
+  "ios": {
+    "bundleIdentifier": "your bundle identifier",
+    "supportsTablet": true
+}
+
+  
 }

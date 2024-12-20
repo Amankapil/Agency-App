@@ -10,8 +10,22 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.0.0",
+    "@react-native-community/checkbox": "^0.5.17",
+    "@react-native-picker/picker": "^2.9.0",
+    "@react-navigation/native": "^7.0.0",
+    "@react-navigation/native-stack": "^7.0.0",
+    "@react-navigation/stack": "^7.0.0",
+    "@reduxjs/toolkit": "^2.3.0",
+    "axios": "^1.7.7",
+    "jspdf": "^2.5.2",
     "react": "18.3.1",
-    "react-native": "0.76.1"
+    "react-native": "0.76.1",
+    "react-native-bouncy-checkbox": "^4.1.2",
+    "react-native-safe-area-context": "^4.14.0",
+    "react-native-svg": "^15.8.0",
+    "react-redux": "^9.1.2",
+    "twrnc": "^4.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
